@@ -1,5 +1,4 @@
-# Twitter Data Analysis using Python  
-Author: Seif Hossam Eldeen
+# Twitter Data Analysis using Python
 
 ## Overview
 This project performs comprehensive analysis and cleaning of Twitter data using Python and Pandas. The analysis covers data import, cleaning, function writing, iterators, list comprehensions, lambda functions, variable scoping, and exploratory data analysis. The goal is to extract insights about trending keywords and engagement metrics.
@@ -76,4 +75,20 @@ Assumed columns:
 
 ## How to Run
 
-1. Place your Twitter dataset (CSV) in the project dire
+1. Place your Twitter dataset (CSV) in the project directory.
+2. Update the file path in the script if necessary.
+3. Run the script:
+   python twitter_analysis.py
+4. Review the output and generated plots.
+5. Check the report for a summary of findings.
+
+## Key Features
+
+- Robust data cleaning and outlier handling.
+- Modular, reusable functions with error handling.
+- Efficient keyword analysis using iterators and list comprehensions.
+- Exploratory visualizations for trend analysis.
+
+## Author
+
+Seif Hossam Eldeen
