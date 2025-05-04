@@ -1,0 +1,511 @@
+Tweet_Date,Tweet_Text,Retweet_Count,Like_Count,Hashtags
+1/1/2021,Tweet about MachineLearning,204,271,#ML
+1/1/2021, Tweet about DeepLearning ,46,306,#tech
+1/1/2021,Tweet about Python,233,101,#ML
+1/2/2021,Tweet about DeepLearning,298,203,#python
+1/3/2021,Tweet about DataScience,376,502,#python
+1/4/2021, Tweet about AI ,183,123,#AI
+1/5/2021, Tweet about AI ,121,325,#ai
+1/6/2021,Tweet about DataScience,440,331,#data
+1/6/2021,Tweet about Python,190,316,#DATA
+1/6/2021, Tweet about MachineLearning ,443,133,#TECH
+1/7/2021, Tweet about MachineLearning ,478,413,#tech
+1/7/2021,Tweet about DeepLearning,400,786,#python
+1/9/2021,Tweet about DataScience,266,721,#ML
+1/10/2021, Tweet about DeepLearning ,118,993,#PYTHON
+1/11/2021, Tweet about Python ,27,536,#ml
+1/11/2021,Tweet about DeepLearning,17,893,#python
+1/12/2021,Tweet about Python,164,955,#ml
+1/13/2021, Tweet about MachineLearning ,31,846,#data
+1/14/2021,Tweet about MachineLearning,293,,#ml
+1/15/2021, Tweet about DataScience ,259,923,#ML
+1/15/2021, Tweet about Python ,435,106,#tech
+1/15/2021,Tweet about DeepLearning,107,767,#ai
+1/17/2021, Tweet about MachineLearning ,300,480,#data
+1/17/2021, Tweet about Python ,209,602,#ai
+1/17/2021, Tweet about AI ,51,998,#ml
+1/20/2021,Tweet about MachineLearning,366,598,#python
+1/20/2021,Tweet about DeepLearning,,366,#tech
+1/21/2021,Tweet about AI,309,,#tech
+1/22/2021,Tweet about DeepLearning,133,295,#PYTHON
+1/23/2021,Tweet about MachineLearning,466,923,#ml
+1/23/2021, Tweet about MachineLearning ,152,358,#TECH
+1/24/2021, Tweet about DeepLearning ,393,17,#python
+1/24/2021,Tweet about DataScience,355,480,#DATA
+1/24/2021,Tweet about DataScience,231,788,#ai
+1/24/2021,Tweet about MachineLearning,485,54,#tech
+1/25/2021,Tweet about AI,74,273,#DATA
+1/26/2021, Tweet about MachineLearning ,253,345,#tech
+1/26/2021,Tweet about Python,153,541,#TECH
+1/26/2021, Tweet about DeepLearning ,464,915,#PYTHON
+1/27/2021,Tweet about DataScience,233,463,#DATA
+1/29/2021,Tweet about Python,294,210,#PYTHON
+1/29/2021, Tweet about DataScience ,236,562,#data
+1/30/2021, Tweet about Python ,253,752,#tech
+1/30/2021,Tweet about DeepLearning,124,9,#data
+1/30/2021,Tweet about DataScience,105,66,#data
+1/31/2021,Tweet about AI,178,299,#DATA
+1/31/2021,Tweet about DataScience,155,982,#ai
+1/31/2021,Tweet about MachineLearning,461,573,#ml
+2/1/2021,Tweet about Python,298,,#TECH
+2/3/2021, Tweet about DataScience ,70,752,#TECH
+2/3/2021, Tweet about DeepLearning ,3,558,#python
+2/3/2021,Tweet about Python,,408,#ml
+2/3/2021,Tweet about DataScience,231,222,#ai
+2/4/2021,Tweet about AI,414,564,#ai
+2/5/2021, Tweet about Python ,251,27,#ai
+2/5/2021,Tweet about AI,224,177,#TECH
+2/5/2021, Tweet about MachineLearning ,410,369,#AI
+2/7/2021,Tweet about DeepLearning,390,560,#ml
+2/8/2021,Tweet about DeepLearning,42,80,#AI
+2/8/2021,Tweet about DataScience,340,315,#ai
+2/8/2021,Tweet about DataScience,475,604,#data
+2/8/2021, Tweet about MachineLearning ,145,747,#DATA
+2/9/2021, Tweet about DataScience ,111,731,#TECH
+2/9/2021,Tweet about DeepLearning,94,247,#python
+2/9/2021,Tweet about AI,54,530,#PYTHON
+2/10/2021, Tweet about DeepLearning ,,538,#DATA
+2/11/2021, Tweet about MachineLearning ,299,383,#tech
+2/11/2021,Tweet about AI,201,988,#data
+2/13/2021, Tweet about DeepLearning ,357,764,#AI
+2/14/2021,Tweet about DataScience,477,877,#data
+2/14/2021, Tweet about DeepLearning ,326,766,#ai
+2/17/2021,Tweet about DeepLearning,119,29,#AI
+2/18/2021, Tweet about DeepLearning ,92,908,#python
+2/19/2021, Tweet about Python ,348,724,#AI
+2/19/2021,Tweet about DeepLearning,267,335,#ML
+2/20/2021,Tweet about DeepLearning,47,84,#AI
+2/20/2021, Tweet about DeepLearning ,170,829,#AI
+2/20/2021,Tweet about DeepLearning,201,879,#PYTHON
+2/20/2021,Tweet about MachineLearning,431,235,#ML
+2/22/2021, Tweet about DataScience ,,994,#python
+2/22/2021, Tweet about MachineLearning ,438,795,#TECH
+2/25/2021, Tweet about DataScience ,344,569,#ml
+2/27/2021, Tweet about MachineLearning ,122,,#AI
+2/27/2021, Tweet about AI ,35,650,#PYTHON
+3/1/2021, Tweet about DeepLearning ,372,,#ai
+3/1/2021,Tweet about DeepLearning,77,688,#AI
+3/1/2021, Tweet about DataScience ,98,633,#PYTHON
+3/1/2021,Tweet about MachineLearning,637.4700081485403,465,#ML
+3/2/2021,Tweet about Python,346,979,#ml
+3/3/2021, Tweet about Python ,222,64,#TECH
+3/3/2021,Tweet about AI,281,45,#ai
+3/5/2021, Tweet about Python ,60,338,#AI
+3/5/2021, Tweet about Python ,352,62,#ai
+3/7/2021,Tweet about AI,55,941,#ml
+3/7/2021, Tweet about DataScience ,295,331,#ai
+3/7/2021,Tweet about MachineLearning,207,160,#AI
+3/8/2021,Tweet about Python,499,186,#TECH
+3/8/2021, Tweet about DeepLearning ,142,579,#ai
+3/9/2021, Tweet about Python ,253,393,#tech
+3/9/2021, Tweet about AI ,330,581,#tech
+3/10/2021, Tweet about DataScience ,74,844,#python
+3/10/2021,Tweet about MachineLearning,82,33,#AI
+3/10/2021, Tweet about DataScience ,150,768,#ai
+3/11/2021, Tweet about DataScience ,251,714,#python
+3/11/2021, Tweet about MachineLearning ,370,734,#TECH
+3/12/2021,Tweet about AI,400,137,#data
+3/12/2021, Tweet about AI ,,752,#ML
+3/13/2021, Tweet about AI ,119,692,#data
+3/15/2021,Tweet about AI,100,172,#ai
+3/16/2021,Tweet about DataScience,340,27,#ml
+3/16/2021, Tweet about MachineLearning ,223,850,#DATA
+3/17/2021,Tweet about MachineLearning,10,255,#ML
+3/17/2021, Tweet about DataScience ,40,327,#data
+3/17/2021, Tweet about AI ,239,378,#python
+3/18/2021, Tweet about Python ,329,537,#TECH
+3/19/2021,Tweet about Python,437,172,#AI
+3/21/2021, Tweet about Python ,409,482,#AI
+3/22/2021,Tweet about Python,179,538,#DATA
+3/24/2021, Tweet about DeepLearning ,33,858,#TECH
+3/24/2021,Tweet about DataScience,339,89,#data
+3/25/2021, Tweet about MachineLearning ,456,520,#data
+3/26/2021, Tweet about Python ,474,192,#ML
+3/26/2021,Tweet about MachineLearning,39,774,#AI
+3/26/2021, Tweet about DeepLearning ,364,1000,#ai
+3/26/2021, Tweet about MachineLearning ,54,636,#tech
+3/27/2021,Tweet about AI,162,152,#python
+3/27/2021,Tweet about AI,434,928,#DATA
+3/30/2021, Tweet about Python ,149,198,#DATA
+3/30/2021, Tweet about DeepLearning ,359,625,#ml
+3/31/2021,Tweet about DataScience,227,500,#python
+3/31/2021,Tweet about DeepLearning,267,895,#AI
+4/2/2021,Tweet about DataScience,23,909,#DATA
+4/3/2021, Tweet about MachineLearning ,484,155,#ml
+4/3/2021,Tweet about DeepLearning,-717.4439014,920,#ML
+4/3/2021, Tweet about Python ,498,772,#ML
+4/7/2021,Tweet about MachineLearning,257,558,#PYTHON
+4/7/2021,Tweet about DeepLearning,274,706,#AI
+4/9/2021,Tweet about AI,441,449,#PYTHON
+4/9/2021, Tweet about Python ,-576.0350182,538,#PYTHON
+4/9/2021, Tweet about AI ,391,163,#ml
+4/9/2021,Tweet about Python,428,675,#ML
+4/9/2021,Tweet about Python,157,997,#ml
+4/10/2021,Tweet about DeepLearning,220,464,#PYTHON
+4/11/2021, Tweet about Python ,446,,#PYTHON
+4/16/2021, Tweet about AI ,425,173,#tech
+4/16/2021, Tweet about MachineLearning ,330,844,#PYTHON
+4/17/2021,Tweet about DeepLearning,220,895,#AI
+4/18/2021,Tweet about DeepLearning,242,846,#data
+4/19/2021,Tweet about MachineLearning,17,667,#DATA
+4/22/2021, Tweet about AI ,56,675,#PYTHON
+4/22/2021, Tweet about AI ,311,860,#data
+4/22/2021,Tweet about Python,207,673,#ML
+4/23/2021, Tweet about Python ,100,81,#TECH
+4/23/2021,Tweet about DeepLearning,335,930,#ML
+4/24/2021,Tweet about DataScience,32,735,#ml
+4/24/2021,Tweet about MachineLearning,178,254,#ML
+4/24/2021,Tweet about DataScience,124,,#ml
+4/25/2021,Tweet about MachineLearning,492,804,#TECH
+4/26/2021,Tweet about AI,49,802,#TECH
+4/27/2021,Tweet about Python,298,414,#PYTHON
+4/28/2021, Tweet about Python ,75,640,#ML
+4/28/2021,Tweet about DeepLearning,271,360,#AI
+4/28/2021, Tweet about DeepLearning ,401,874,#AI
+4/29/2021,Tweet about Python,414,630,#TECH
+4/29/2021, Tweet about DeepLearning ,331,145,#python
+4/30/2021,Tweet about AI,460,358,#python
+5/1/2021,Tweet about MachineLearning,70,389,#ml
+5/2/2021, Tweet about Python ,418,809,#PYTHON
+5/2/2021,Tweet about DataScience,97,961,#AI
+5/2/2021,Tweet about DataScience,280,720,#DATA
+5/2/2021, Tweet about DataScience ,375,868,#ml
+5/3/2021, Tweet about Python ,39,945,#ai
+5/3/2021,Tweet about DeepLearning,424,695,#data
+5/3/2021, Tweet about DeepLearning ,325,868,#python
+5/4/2021, Tweet about MachineLearning ,295,345,#ML
+5/4/2021,Tweet about DataScience,32,308,#python
+5/5/2021, Tweet about DataScience ,129,804,#ML
+5/7/2021,Tweet about AI,277,444,#AI
+5/7/2021, Tweet about Python ,375,-164.0201323,#data
+5/8/2021,Tweet about MachineLearning,373,512,#data
+5/8/2021,Tweet about AI,214,487,#tech
+5/8/2021,Tweet about DeepLearning,122,382,#PYTHON
+5/10/2021, Tweet about DeepLearning ,84,731,#TECH
+5/11/2021,Tweet about AI,483,275,#TECH
+5/11/2021,Tweet about DeepLearning,486,149,#tech
+5/12/2021,Tweet about MachineLearning,436,806,#TECH
+5/12/2021, Tweet about MachineLearning ,348,327,#ai
+5/12/2021,Tweet about AI,440,853,#DATA
+5/13/2021, Tweet about MachineLearning ,293,960,#PYTHON
+5/14/2021,Tweet about Python,171,614,#TECH
+5/14/2021,Tweet about DeepLearning,25,904,#python
+5/14/2021, Tweet about DeepLearning ,209,778,#ml
+5/15/2021,Tweet about DeepLearning,23,123,#ai
+5/16/2021, Tweet about DeepLearning ,485,956,#DATA
+5/17/2021, Tweet about AI ,240,524,#ml
+5/18/2021, Tweet about DeepLearning ,19,719,#ML
+5/21/2021,Tweet about MachineLearning,256,354,#ML
+5/22/2021,Tweet about DataScience,108,726,#python
+5/22/2021,Tweet about DataScience,389,534,#AI
+5/22/2021,Tweet about Python,180,458,#AI
+5/23/2021, Tweet about AI ,102,572,#ML
+5/24/2021, Tweet about DataScience ,170,869,#PYTHON
+5/25/2021,Tweet about Python,315,709,#ai
+5/26/2021, Tweet about AI ,205,266,#ai
+5/26/2021, Tweet about DeepLearning ,147,,#ai
+5/27/2021,Tweet about DataScience,276,568,#PYTHON
+5/28/2021, Tweet about DataScience ,423,522,#ml
+5/28/2021,Tweet about DeepLearning,294,671,#ai
+5/28/2021,Tweet about Python,204,189,#TECH
+5/28/2021, Tweet about DeepLearning ,20,512,#ai
+5/28/2021, Tweet about Python ,289,520,#AI
+5/29/2021,Tweet about DataScience,265,827,#PYTHON
+5/29/2021, Tweet about DataScience ,141,94,#ML
+5/30/2021, Tweet about DeepLearning ,348,702,#ai
+5/31/2021, Tweet about AI ,232,857,#tech
+5/31/2021, Tweet about MachineLearning ,217,249,#ml
+6/1/2021, Tweet about AI ,417,212,#tech
+6/2/2021, Tweet about MachineLearning ,11,227,#PYTHON
+6/3/2021, Tweet about MachineLearning ,452,337,#ai
+6/3/2021, Tweet about AI ,366,946,#DATA
+6/3/2021, Tweet about MachineLearning ,209,6,#DATA
+6/4/2021,Tweet about AI,52,645,#data
+6/4/2021, Tweet about DeepLearning ,339,299,#AI
+6/6/2021,Tweet about DeepLearning,46,448,#PYTHON
+6/7/2021,Tweet about AI,211,283,#ml
+6/11/2021,Tweet about DeepLearning,496,999,#ml
+6/12/2021, Tweet about MachineLearning ,168,101,#data
+6/13/2021, Tweet about AI ,259,,#PYTHON
+6/16/2021,Tweet about MachineLearning,366,829,#ML
+6/16/2021, Tweet about MachineLearning ,378,803,#AI
+6/17/2021, Tweet about Python ,57,182,#ai
+6/18/2021, Tweet about MachineLearning ,312,462,#ai
+6/19/2021, Tweet about DeepLearning ,142,761,#ai
+6/19/2021, Tweet about Python ,19,514,#ML
+6/19/2021, Tweet about DataScience ,,610,#TECH
+6/19/2021, Tweet about DeepLearning ,350,716,#data
+6/20/2021, Tweet about Python ,400,664,#DATA
+6/20/2021,Tweet about Python,349,40,#TECH
+6/20/2021,Tweet about DeepLearning,491,914,#ML
+6/22/2021, Tweet about MachineLearning ,398,381,#data
+6/22/2021,Tweet about MachineLearning,,659,#python
+6/24/2021,Tweet about MachineLearning,437,925,#TECH
+6/25/2021, Tweet about Python ,70,81,#AI
+6/25/2021,Tweet about DataScience,396,-633.9691115,#ML
+6/27/2021, Tweet about AI ,192,692,#tech
+6/27/2021,Tweet about MachineLearning,19,253,#ml
+6/28/2021, Tweet about DataScience ,498,762,#TECH
+6/28/2021,Tweet about DataScience,247,703,#ML
+6/29/2021, Tweet about DataScience ,260,971,#TECH
+6/30/2021,Tweet about MachineLearning,499,961,#python
+6/30/2021, Tweet about Python ,447,812,#tech
+6/30/2021,Tweet about DeepLearning,403,219,#PYTHON
+7/4/2021,Tweet about Python,495,18,#AI
+7/4/2021, Tweet about Python ,481,402,#data
+7/4/2021,Tweet about DeepLearning,118,975,#TECH
+7/5/2021,Tweet about MachineLearning,299,724,#ml
+7/5/2021, Tweet about MachineLearning ,396,346,#data
+7/5/2021,Tweet about Python,,448,#python
+7/5/2021,Tweet about AI,48,651,#ML
+7/6/2021, Tweet about DeepLearning ,123,644,#ML
+7/7/2021,Tweet about DataScience,230,847,#ai
+7/8/2021, Tweet about MachineLearning ,380,395,#ML
+7/9/2021,Tweet about Python,147,156,#ai
+7/9/2021, Tweet about AI ,288,827,#python
+7/9/2021, Tweet about AI ,441,789,#AI
+7/14/2021, Tweet about DataScience ,211,132,#ai
+7/14/2021,Tweet about DataScience,382,559,#python
+7/15/2021, Tweet about AI ,287,534,#AI
+7/15/2021, Tweet about DataScience ,357,430,#DATA
+7/15/2021, Tweet about DeepLearning ,85,310,#ml
+7/15/2021, Tweet about DataScience ,121,162,#PYTHON
+7/15/2021, Tweet about AI ,388,178,#ml
+7/19/2021, Tweet about AI ,459,483,#DATA
+7/20/2021, Tweet about DeepLearning ,250,507,#TECH
+7/21/2021,Tweet about DeepLearning,340,496,#ML
+7/22/2021,Tweet about AI,360,609,#ml
+7/22/2021, Tweet about Python ,464,298,#data
+7/23/2021, Tweet about DeepLearning ,464,466,#ai
+7/23/2021, Tweet about Python ,230,122,#DATA
+7/25/2021,Tweet about DeepLearning,,602,#ai
+7/25/2021, Tweet about DataScience ,397,833,#tech
+7/26/2021,Tweet about AI,116,544,#data
+7/26/2021,Tweet about MachineLearning,144,629,#tech
+7/28/2021,Tweet about MachineLearning,64,420,#DATA
+7/30/2021, Tweet about AI ,293,888,#ai
+7/30/2021,Tweet about DeepLearning,320,496,#AI
+7/31/2021, Tweet about Python ,84,767,#data
+7/31/2021,Tweet about AI,285,950,#ML
+7/31/2021, Tweet about Python ,177,979,#ML
+8/1/2021,Tweet about AI,51,156,#PYTHON
+8/1/2021, Tweet about DataScience ,151,128,#tech
+8/1/2021,Tweet about DeepLearning,493,599,#ml
+8/1/2021,Tweet about AI,276,991,#PYTHON
+8/2/2021,Tweet about AI,305,95,#DATA
+8/3/2021,Tweet about DataScience,231,650,#ai
+8/3/2021, Tweet about DeepLearning ,411,157,#python
+8/4/2021,Tweet about Python,377,736,#TECH
+8/5/2021, Tweet about MachineLearning ,52,,#PYTHON
+8/5/2021,Tweet about Python,488,579,#AI
+8/7/2021,Tweet about DeepLearning,28,159,#ai
+8/7/2021, Tweet about DeepLearning ,246,780,#ai
+8/7/2021,Tweet about MachineLearning,399,66,#ML
+8/8/2021,Tweet about MachineLearning,19,484,#AI
+8/9/2021,Tweet about DeepLearning,261,660,#data
+8/9/2021,Tweet about DeepLearning,154,888,#DATA
+8/9/2021,Tweet about AI,162,537,#PYTHON
+8/9/2021, Tweet about Python ,290,915,#tech
+8/11/2021, Tweet about DataScience ,484,654,#ml
+8/11/2021, Tweet about Python ,293,,#DATA
+8/13/2021, Tweet about MachineLearning ,292,776,#PYTHON
+8/13/2021, Tweet about DeepLearning ,446,876,#python
+8/14/2021, Tweet about MachineLearning ,55,707,#PYTHON
+8/14/2021, Tweet about AI ,292,599,#PYTHON
+8/15/2021, Tweet about AI ,8,753,#python
+8/15/2021,Tweet about DataScience,384,-955.9296794,#ai
+8/17/2021,Tweet about MachineLearning,257,68,#AI
+8/21/2021, Tweet about DeepLearning ,85,812,#ML
+8/22/2021,Tweet about MachineLearning,207,652,#PYTHON
+8/22/2021, Tweet about AI ,29,808,#ai
+8/22/2021,Tweet about DeepLearning,457,825,#ml
+8/22/2021,Tweet about DataScience,236,83,#PYTHON
+8/23/2021, Tweet about DeepLearning ,480,506,#ai
+8/23/2021,Tweet about DeepLearning,27,730,#ai
+8/24/2021,Tweet about DataScience,412,730,#TECH
+8/24/2021,Tweet about DeepLearning,78,,#ai
+8/25/2021, Tweet about Python ,247,614,#tech
+8/26/2021,Tweet about Python,369,150,#AI
+8/26/2021,Tweet about MachineLearning,456,544,#ml
+8/26/2021,Tweet about AI,370,698,#ai
+8/27/2021,Tweet about MachineLearning,234,913,#data
+8/28/2021, Tweet about DataScience ,258,433,#ML
+8/28/2021,Tweet about Python,189,702,#python
+8/29/2021, Tweet about DeepLearning ,440,449,#DATA
+8/30/2021, Tweet about DeepLearning ,131,511,#tech
+8/30/2021, Tweet about DataScience ,201,4,#tech
+8/30/2021, Tweet about DeepLearning ,389,320,#AI
+8/31/2021,Tweet about DeepLearning,388,665,#ML
+9/1/2021, Tweet about MachineLearning ,178,785,#data
+9/2/2021,Tweet about Python,200,277,#data
+9/2/2021, Tweet about DataScience ,365,169,#TECH
+9/2/2021,Tweet about DataScience,388,593,#ml
+9/2/2021, Tweet about MachineLearning ,102,117,#tech
+9/2/2021,Tweet about AI,219,568,#TECH
+9/3/2021,Tweet about DataScience,426,124,#TECH
+9/3/2021, Tweet about Python ,391,886,#ml
+9/4/2021, Tweet about DeepLearning ,411,112,#PYTHON
+9/4/2021, Tweet about AI ,435,741,#tech
+9/4/2021, Tweet about DataScience ,459,92,#ML
+9/5/2021,Tweet about MachineLearning,47,699,#data
+9/6/2021, Tweet about AI ,351,353,#ml
+9/7/2021,Tweet about DataScience,69,737,#python
+9/8/2021,Tweet about AI,459,510,#AI
+9/8/2021,Tweet about AI,468,859,#AI
+9/9/2021,Tweet about Python,243,480,#TECH
+9/9/2021, Tweet about AI ,493,417,#PYTHON
+9/10/2021,Tweet about AI,307,23,#tech
+9/10/2021,Tweet about AI,,546,#AI
+9/10/2021,Tweet about MachineLearning,260,184,#PYTHON
+9/11/2021,Tweet about AI,323,959,#ai
+9/12/2021,Tweet about AI,249,222,#tech
+9/12/2021,Tweet about DeepLearning,,961,#ml
+9/13/2021,Tweet about DataScience,,169,#ml
+9/13/2021,Tweet about Python,498,985,#ml
+9/14/2021,Tweet about AI,206,234,#AI
+9/14/2021, Tweet about DataScience ,307,263,#PYTHON
+9/15/2021, Tweet about Python ,159,450,#data
+9/15/2021, Tweet about DeepLearning ,391,440.0160793262262,#tech
+9/16/2021,Tweet about DeepLearning,300,193,#AI
+9/16/2021, Tweet about AI ,224,190,#python
+9/16/2021, Tweet about MachineLearning ,6,216,#data
+9/16/2021, Tweet about AI ,123,968,#ML
+9/18/2021, Tweet about DataScience ,471,795,#ai
+9/18/2021, Tweet about DeepLearning ,143,736,#ai
+9/22/2021, Tweet about DeepLearning ,39,597,#ml
+9/23/2021,Tweet about DataScience,250,558,#ml
+9/24/2021,Tweet about Python,218,572,#ML
+9/24/2021, Tweet about DataScience ,411,572,#TECH
+9/24/2021,Tweet about AI,208,874,#tech
+9/25/2021,Tweet about Python,379,883,#tech
+9/25/2021, Tweet about DeepLearning ,260,17,#TECH
+9/26/2021, Tweet about DeepLearning ,294,585,#tech
+9/26/2021,Tweet about DataScience,151,350,#python
+9/26/2021,Tweet about Python,399,270,#tech
+9/27/2021, Tweet about MachineLearning ,129,,#tech
+9/27/2021, Tweet about Python ,429,563,#tech
+9/28/2021,Tweet about MachineLearning,128,334,#DATA
+9/29/2021,Tweet about AI,51,179,#DATA
+9/29/2021,Tweet about DataScience,437,40,#ml
+9/29/2021, Tweet about Python ,4,931,#python
+9/29/2021,Tweet about DeepLearning,273,87,#tech
+9/30/2021, Tweet about DataScience ,100,152,#data
+9/30/2021,Tweet about DeepLearning,277,901,#AI
+10/1/2021,Tweet about AI,452,481,#data
+10/1/2021, Tweet about AI ,449,581,#AI
+10/2/2021, Tweet about DataScience ,410,,#AI
+10/2/2021, Tweet about Python ,74,324,#ml
+10/2/2021,Tweet about MachineLearning,178,644,#python
+10/2/2021,Tweet about DeepLearning,53,598,#DATA
+10/3/2021,Tweet about MachineLearning,39,172,#PYTHON
+10/4/2021, Tweet about AI ,291,348,#PYTHON
+10/5/2021,Tweet about DeepLearning,23,819,#python
+10/6/2021, Tweet about Python ,490,616,#TECH
+10/7/2021,Tweet about Python,64.96238511885235,831,#DATA
+10/8/2021,Tweet about DeepLearning,402,584,#data
+10/8/2021,Tweet about DataScience,272,142,#python
+10/8/2021,Tweet about Python,338,136,#ML
+10/9/2021, Tweet about MachineLearning ,460,490,#ML
+10/10/2021, Tweet about DataScience ,291,95,#ML
+10/10/2021, Tweet about MachineLearning ,88,486,#ml
+10/12/2021, Tweet about DataScience ,240,442,#AI
+10/12/2021, Tweet about DataScience ,52,799,#data
+10/13/2021, Tweet about MachineLearning ,276,414,#AI
+10/16/2021,Tweet about DeepLearning,234,324,#TECH
+10/16/2021,Tweet about Python,231,647,#ML
+10/17/2021, Tweet about DeepLearning ,133,848,#data
+10/19/2021, Tweet about MachineLearning ,77,698,#PYTHON
+10/20/2021,Tweet about Python,414,320,#DATA
+10/23/2021,Tweet about AI,467,872,#DATA
+10/23/2021, Tweet about DeepLearning ,272,709,#python
+10/25/2021,Tweet about DeepLearning,196,511,#data
+10/27/2021,Tweet about DeepLearning,492,462,#ML
+10/27/2021,Tweet about AI,152,318,#ml
+10/29/2021,Tweet about Python,,104,#ml
+10/29/2021, Tweet about DeepLearning ,413,647,#DATA
+10/31/2021, Tweet about DataScience ,34,346,#PYTHON
+11/1/2021,Tweet about DataScience,,720,#tech
+11/1/2021,Tweet about DeepLearning,116,859,#python
+11/2/2021,Tweet about DeepLearning,410,379,#data
+11/3/2021, Tweet about Python ,276,307,#ai
+11/5/2021,Tweet about AI,100,60,#python
+11/5/2021,Tweet about DeepLearning,401,584,#AI
+11/6/2021,Tweet about DeepLearning,243,661,#PYTHON
+11/6/2021, Tweet about DeepLearning ,306,988,#PYTHON
+11/6/2021,Tweet about AI,13,445,#DATA
+11/7/2021, Tweet about AI ,369,220,#ml
+11/8/2021,Tweet about DeepLearning,59,826,#PYTHON
+11/8/2021, Tweet about DeepLearning ,185,182,#data
+11/8/2021,Tweet about DeepLearning,39,540,#DATA
+11/9/2021,Tweet about MachineLearning,202,671,#PYTHON
+11/9/2021, Tweet about MachineLearning ,16,135,#ML
+11/10/2021,Tweet about AI,281,457,#tech
+11/11/2021,Tweet about DataScience,28,262,#data
+11/11/2021,Tweet about Python,273,556,#PYTHON
+11/12/2021,Tweet about MachineLearning,425,267,#TECH
+11/14/2021,Tweet about MachineLearning,221,753,#AI
+11/15/2021, Tweet about Python ,168,429,#python
+11/16/2021,Tweet about DataScience,119,237,#data
+11/17/2021, Tweet about Python ,306,352,#ml
+11/17/2021, Tweet about Python ,151,0,#data
+11/18/2021,Tweet about AI,247,764,#TECH
+11/18/2021,Tweet about DeepLearning,93,220,#python
+11/18/2021, Tweet about Python ,379,566,#AI
+11/19/2021, Tweet about AI ,176,923,#DATA
+11/19/2021, Tweet about AI ,19,972,#AI
+11/20/2021, Tweet about DataScience ,487,195,#ML
+11/21/2021,Tweet about DataScience,251,147,#ai
+11/22/2021, Tweet about DeepLearning ,389,36,#data
+11/23/2021,Tweet about MachineLearning,210,166,#ml
+11/24/2021, Tweet about MachineLearning ,199,910,#data
+11/24/2021, Tweet about Python ,88,848,#PYTHON
+11/24/2021, Tweet about AI ,145,583,#ml
+11/26/2021,Tweet about DeepLearning,243,367,#python
+11/26/2021, Tweet about DeepLearning ,314,344,#TECH
+11/27/2021, Tweet about AI ,442.8441346574634,67,#ml
+11/28/2021, Tweet about DataScience ,377,22,#python
+11/28/2021,Tweet about AI,56,245,#PYTHON
+11/29/2021, Tweet about MachineLearning ,,779,#python
+12/3/2021, Tweet about DeepLearning ,446,896,#AI
+12/4/2021, Tweet about DeepLearning ,458,,#DATA
+12/4/2021, Tweet about MachineLearning ,,354,#python
+12/5/2021,Tweet about MachineLearning,222,339,#PYTHON
+12/6/2021, Tweet about DeepLearning ,130,569,#DATA
+12/8/2021,Tweet about Python,178,957,#data
+12/9/2021, Tweet about DeepLearning ,14,583,#ml
+12/10/2021,Tweet about AI,428,806,#AI
+12/12/2021,Tweet about AI,244,63,#tech
+12/12/2021, Tweet about MachineLearning ,125,394,#data
+12/12/2021, Tweet about DataScience ,77,870,#AI
+12/14/2021,Tweet about DataScience,,896,#data
+12/15/2021,Tweet about Python,,942,#data
+12/16/2021,Tweet about MachineLearning,0,480,#PYTHON
+12/17/2021, Tweet about Python ,200,153,#TECH
+12/18/2021,Tweet about MachineLearning,,561,#DATA
+12/18/2021, Tweet about DeepLearning ,437,427,#python
+12/18/2021,Tweet about Python,188,348,#python
+12/19/2021,Tweet about Python,93,811,#python
+12/19/2021, Tweet about Python ,,988,#tech
+12/20/2021, Tweet about DataScience ,388,687,#python
+12/20/2021, Tweet about DeepLearning ,69,773,#data
+12/23/2021,Tweet about DeepLearning,137,894,#PYTHON
+12/23/2021, Tweet about AI ,57,312,#PYTHON
+12/23/2021, Tweet about DataScience ,269,712,#TECH
+12/23/2021,Tweet about AI,274,278,#python
+12/23/2021,Tweet about AI,10,337,#ML
+12/25/2021,Tweet about MachineLearning,417,56,#DATA
+12/25/2021, Tweet about DeepLearning ,220,211,#tech
+12/27/2021,Tweet about MachineLearning,403,407,#data
+12/28/2021, Tweet about Python ,335,357,#tech
+12/29/2021, Tweet about MachineLearning ,29,951,#ML
+12/30/2021,Tweet about AI,471,239,#PYTHON
+9/16/2021, Tweet about DeepLearning ,300,193,#AI
+11/19/2021,Tweet about AI,19,972,#ai
+11/24/2021,Tweet about AI,145,583,#ml
+9/3/2021,Tweet about Python,391,934.7123555765504,#ML
+3/12/2021,Tweet about AI,441,752,#ML
+4/9/2021, Tweet about AI ,441,449,#PYTHON
+3/8/2021, Tweet about Python ,499,186,#tech
+7/4/2021,Tweet about DeepLearning,118,975,#tech
+3/16/2021,Tweet about DataScience,340,27,#ML
+6/17/2021, Tweet about Python ,57,182,#AI
